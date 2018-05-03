@@ -81,7 +81,7 @@ Before our group going to present, we gathered together to makre sure everything
 We putted everything together in one computer to test the system. Everything work 
 prfectly and was success. During the presentation, everyone in our group talked a 
 little about what they did. I didn't talked during the presentation because what I did
-I already presented it. Lucus demonstration who the process and everyone in the class
+I already presented it. Lucus demonstrated who the process and everyone in the class
 gathered around him.
 
 **Challenge**
