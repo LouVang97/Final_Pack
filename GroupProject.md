@@ -75,6 +75,15 @@ When I boot the CD on the computer, the boot was failed. However, with Pavel
 helps I understand why and be able to configured. I started everything
 over and the file came out a .iso file. Then I burned this file in the CD.
 
+**Presentation** 
+
+Before our group going to present, we gathered together to makre sure everything work. 
+We putted everything together in one computer to test the system. Everything work 
+prfectly and was success. During the presentation, everyone in our group talked a 
+little about what they did. I didn't talked during the presentation because what I did
+I already presented it. Lucus demonstration who the process and everyone in the class
+gathered around him.
+
 **Challenge**
 
 There were  many challenges I had face while worked on this project. As a
