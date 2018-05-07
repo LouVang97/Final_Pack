@@ -8,7 +8,7 @@ This Linux's class had taught me so much. Now I be able to write a script, build
 
 * **Week 1** - This week there was no script to submitted because it was the first week of the semester. However, I got to learned how to used [Github](https://github.com/LouVang97/hello-world). Github is a useful tools for development platform inspired by the way you work. From this you can host and review code, manage projects, and build software. Also, this where I would write my scripts. 
 
-* **[Week 2](https://github.com/LouVang97/Week2/blob/master/Script2.sh)** - 
+* **[Week 2](https://github.com/LouVang97/Week2/blob/master/Script2.sh)** - How Linux work, chapter 2 I learned the basic shell commands, directories, files, environment variables, special characters, and intermediate. In my script, I combine each of the cammands from those to wrote it. However, this is my first script and it wasn't good. I still working on it.
 * **[Week 3](https://github.com/LouVang97/jubilant-potato/blob/master/Ch3.sh)** -
 * **[Week 4](https://github.com/LouVang97/Week4/blob/master/LouVangWK4.sh)** -
 * **[Week 5](https://github.com/LouVang97/Script5.txt/blob/master/Script5.txt)** -
