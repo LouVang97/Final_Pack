@@ -18,11 +18,18 @@ This Linux's class had taught me so much. Now I be able to write a script, build
 
 * **[Week 6](https://github.com/LouVang97/WK6-Script/blob/master/Script6.txt)** - This week on Wednesday was valentines day and there was no class. However, there was script to submitted. In my script this week, I combined the cammand to look up for runlevel, view all unit's dependencis, check it, show the list, and check on current jobs. 
 
-* **[Week 7](https://github.com/LouVang97/Week7-Script/blob/master/Wk7-Script.sh)** - [Respond essay](https://github.com/LouVang97/Week7-Script/blob/master/Wk7-Script.sh)
-* **[Week 8](https://github.com/LouVang97/LateMidterm-Script/blob/master/Midterm.sh)** - Midterm
+* **[Week 7](https://github.com/LouVang97/Week7-Script/blob/master/Wk7-Script.sh)** - This week there is a [Respond essay](https://github.com/LouVang97/Week7-Script/blob/master/Wk7-Script.sh) come along with the script. Form the ["An Industry Guide to becoming a software engineer"](https://tuftsdev.github.io/WebProgramming/notes/blangenberg.pdf) presentation by Bill Langenberg I learned a lot from it. I learned about the skill you need to become a succed a engineer, what employers look for, and the software engineering in the wild. For my script, I created a script adding units to systemd. 
+
+* **[Week 8](https://github.com/LouVang97/LateMidterm-Script/blob/master/Midterm.sh)** - This week I had to applied all commands in chapter 1 through 7 to write my midterm script. There also a presentation come along as well. 
+
 * **Week 9 and 10** - Spring break
-* **[Week 11](https://github.com/LouVang97/Week11-Script)** - 
-* **[Week 12](https://github.com/LouVang97/Week12)** -
-* **[Week 13](https://github.com/LouVang97/Week13/blob/master/Ch12.sh)** - [Report 2](https://github.com/LouVang97/Week13/blob/master/Report%232.md)
-* **[Week 14](https://github.com/LouVang97/Week14)** - 
-* **[Week 15](https://github.com/LouVang97/Week15)** -
+
+* **[Week 11](https://github.com/LouVang97/Week11-Script)** - This week we were moving into the Networking Services portion of the class where we would split up into groups of 4 eachs. Our porject for this was Netboot. Our team's name was Oops slacker. I was a supporter in this group. How Linux Work, chapter 9 and chapter 10 were combine together for this week. I had learned so much through this two chapterp.In chapter 10, my script was about ipconfig, display IP of YouTube, and ping it. For chapter 10, the script was tried to connects to the web server YouTube, output network packets, and view what RPC service in my vomputer.
+
+* **[Week 12](https://github.com/LouVang97/Week12)** - This week there was no script to write. However, there were three articles to read and write a respond essay in 500 words. The first article was about ["How does the internet work?"](https://github.com/LouVang97/Week12/blob/master/Internetwork%3F.txt), in this article I learned about how the internet work and the requirements of it. The second one was ["Routing"](https://github.com/LouVang97/Week12/blob/master/Routing.txt), in this artilce I learned how IP routing work and what is it. The last one was ["Tcpdump](https://github.com/LouVang97/Week12/blob/master/Tcpdump.txt), it about tcpdump and some command options to configure it. 
+
+* **[Week 13](https://github.com/LouVang97/Week13/blob/master/Ch12.sh)** - How Linux Work, chapter 12 I learned about moving files across the network. That's what I applied for my script in week 13. 
+
+* **[Week 14](https://github.com/LouVang97/Week14)** - This week there was no scripts to submitted. However, there were two programs were needed to applied. The first one was [change window manager](https://github.com/LouVang97/Week14/blob/master/Ch14.md), the window manager I changed it to was Window Marker. The last one was [compiled](https://github.com/LouVang97/Week14/blob/master/Ch15.md), I compiled iPXE.
+
+* **[Week 15](https://github.com/LouVang97/Week15)** - 
