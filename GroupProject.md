@@ -75,7 +75,7 @@ When I boot the CD on the computer, the boot was failed. However, with Pavel
 helps I understand why and be able to configured. I started everything
 over and the file came out a .iso file. Then I burned this file in the CD.
 
-**]Presentation](https://sootsplash.csci2461.com/teamOps.html)** 
+**[Presentation](https://sootsplash.csci2461.com/teamOps.html)** 
 
 Before our group going to present, we gathered together to makre sure everything work. 
 We putted everything together in one computer to test the system. Everything work 
